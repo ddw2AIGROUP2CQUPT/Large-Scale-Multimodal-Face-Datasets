@@ -19,3 +19,6 @@
 ## HumanCaption-10M
 
 ## HumanCaption-HQ
+**HumanCaption-10M: a large, diverse, high-quality dataset of human-related images with natural language descriptions (image to text). The dataset is designed to facilitate research on human-centered tasks. HumanCaption-10M contains approximately 10 million human-related images and their corresponding facial features in natural language descriptions and is the second generation version of FaceCaption-15M** 
+## Illustrations
+![image/png](https://cdn-uploads.huggingface.co/production/uploads/64259db7d3e6fdf87e4792d0/r-EveWy-R7akMI6QvpXrH.png)
