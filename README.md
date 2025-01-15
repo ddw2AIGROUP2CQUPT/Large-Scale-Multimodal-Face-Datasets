@@ -1,4 +1,4 @@
-# Large-Scale-Multimodel-Datasets
+# Large-Scale Multimodal Face Datasets
 
 **[24/07/05] 🤗FacaCaption-15M [OpenFace-CQUPT/FaceCaption-15M](https://huggingface.co/datasets/OpenFace-CQUPT/FaceCaption-15M)**
 
