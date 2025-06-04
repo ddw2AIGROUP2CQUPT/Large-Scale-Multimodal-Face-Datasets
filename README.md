@@ -33,3 +33,16 @@
 **Approximately 311,000 human-related images and their corresponding natural language descriptions.
 Compared to [HumanCaption-10M](https://huggingface.co/datasets/OpenFace-CQUPT/HumanCaption-10M), this dataset not only includes associated facial language descriptions but also filters out images with higher resolution and employs the powerful visual understanding capabilities of GPT-4V to generate more detailed and accurate text descriptions.
 This dataset is used for the second phase of training [HumanVLM](https://huggingface.co/OpenFace-CQUPT/Human_LLaVA), enhancing the model's capabilities in caption generation and visual understanding.**
+
+# Citation
+```tex
+@misc{dai202415mmultimodalfacialimagetext,
+      title={15M Multimodal Facial Image-Text Dataset}, 
+      author={Dawei Dai and YuTang Li and YingGe Liu and Mingming Jia and Zhang YuanHui and Guoyin Wang},
+      year={2024},
+      eprint={2407.08515},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.08515}, 
+}
+```
