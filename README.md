@@ -2,7 +2,7 @@
 
 You need to download the data from Huggingface first, and then apply for the original Laion-face data by completing the agreement. Based on the information from Huggingface, obtain the corresponding image-text pairs.
 
-**[25/06/09] 🤗The Original Images, is Released [FaceCaption-15M_Agreement]**
+**[25/06/09] 🤗The Original Images, are Released [FaceCaption-15M_Agreement]**
 
 **[24/07/05] 🤗FacaCaption-15M [OpenFace-CQUPT/FaceCaption-15M](https://huggingface.co/datasets/OpenFace-CQUPT/FaceCaption-15M)**
 
