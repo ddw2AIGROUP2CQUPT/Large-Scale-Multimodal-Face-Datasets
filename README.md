@@ -47,6 +47,14 @@ This dataset is used for the second phase of training [HumanVLM](https://hugging
       eprint={2407.08515},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2407.08515}, 
+      url={https://arxiv.org/abs/2407.08515},
+@article{dai2026facecaption15m,
+    title={FaceCaption-15M: Benchmarking and Enhancing Facial Vision-Language Models},
+    author={Dawei Dai and YuTang Li and YingGe Liu and Mingming Jia and Zhang YuanHui and Guoyin Wang},
+    journal={IEEE Transactions on Circuits and Systems for Video Technology},
+    year={2026},
+    doi={10.1109/TCSVT.2026.3713342},
+    keywords={Modeling;Faces;Training;Conferences;Computers;Computer vision;Learning (artificial intelligence);Pattern recognition;Educational institutions;Machine learning;Image-Text Dataset;Face Task},
+}
 }
 ```
